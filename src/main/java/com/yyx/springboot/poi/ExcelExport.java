@@ -4,7 +4,7 @@ import java.lang.annotation.*;
 
 /**
  * @Description: 自定义excel注解
- * @Auther: yinyuxin@gome.com.cn
+ * @Auther: yinyuxin
  * @Date: 2018/12/21 10:54
  */
 @Target(ElementType.FIELD) //标注用来注解field类型

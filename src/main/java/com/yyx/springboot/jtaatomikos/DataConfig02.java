@@ -5,7 +5,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
  * @Description:
- * @Auther: yinyuxin@gome.com.cn
+ * @Auther: yinyuxin
  * @Date: 2018/11/21 13:54
  */
 @Data

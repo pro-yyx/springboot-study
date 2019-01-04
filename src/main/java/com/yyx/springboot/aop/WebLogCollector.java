@@ -19,7 +19,7 @@ import java.util.Enumeration;
 
 /**
  * @Description: 统一日志收集
- * @Auther: yinyuxin@gome.com.cn
+ * @Auther: yinyuxin
  * @Date: 2018/11/7 14:48
  */
 @Component

@@ -12,7 +12,7 @@ import java.util.Map;
 
 /**
  * @Description: 全局捕获异常
- * @Auther: yinyuxin@gome.com.cn
+ * @Auther: yinyuxin
  * @Date: 2018/11/6 18:03
  */
 @ControllerAdvice

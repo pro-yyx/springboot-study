@@ -4,7 +4,7 @@ import lombok.Data;
 
 /**
  * @Description: 实体类user
- * @Auther: yinyuxin@gome.com.cn
+ * @Auther: yinyuxin
  * @Date: 2018/11/12 14:41
  */
 @Data

@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  * @Description: 课程po
- * @Auther: yinyuxin@gome.com.cn
+ * @Auther: yinyuxin
  * @Date: 2018/12/25 15:06
  */
 @Data

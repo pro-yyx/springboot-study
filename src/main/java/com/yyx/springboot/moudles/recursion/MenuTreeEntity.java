@@ -4,7 +4,7 @@ import lombok.Data;
 
 /**
  * @Description: 递归学习  （菜单树entity）
- * @Auther: yinyuxin@gome.com.cn
+ * @Auther: yinyuxin
  * @Date: 2018/12/11 19:10
  */
 @Data

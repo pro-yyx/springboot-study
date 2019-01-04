@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * @Description:
- * @Auther: yinyuxin@gome.com.cn
+ * @Auther: yinyuxin
  * @Date: 2018/12/11 19:12
  */
 public class RecursionTest {

@@ -7,7 +7,7 @@ import java.lang.reflect.*;
 
 /**
  * @Description: 反射学习
- * @Auther: yinyuxin@gome.com.cn
+ * @Auther: yinyuxin
  * @Date: 2018/11/13 16:21
  */
 @Slf4j

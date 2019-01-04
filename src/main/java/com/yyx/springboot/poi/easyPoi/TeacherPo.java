@@ -8,7 +8,7 @@ import java.io.Serializable;
 
 /**
  * @Description: 教师po
- * @Auther: yinyuxin@gome.com.cn
+ * @Auther: yinyuxin
  * @Date: 2018/12/25 15:10
  */
 @Data

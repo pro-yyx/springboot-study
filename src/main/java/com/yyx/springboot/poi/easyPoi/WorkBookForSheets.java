@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  * @Description: easypoi 多sheet导出 参数接受
- * @Auther: yinyxin@gome.com.cn
+ * @Auther: yinyxin
  * @Date: 2018/12/26 20:04
  */
 @Data

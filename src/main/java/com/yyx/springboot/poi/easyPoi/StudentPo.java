@@ -9,7 +9,7 @@ import java.util.Date;
 
 /**
  * @Description: 学生po
- * @Auther: yinyuxin@gome.com.cn
+ * @Auther: yinyuxin
  * @Date: 2018/12/25 15:10
  */
 @Data

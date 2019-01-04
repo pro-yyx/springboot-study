@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 
 /**
  * @Description:
- * @Auther: yinyuxin@gome.com.cn
+ * @Auther: yinyuxin
  * @Date: 2018/11/7 18:34
  */
 @Service

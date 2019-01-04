@@ -7,7 +7,7 @@ import org.apache.ibatis.annotations.Select;
 
 /**
  * @Description: user mapper
- * @Auther: yinyuxin@gome.com.cn
+ * @Auther: yinyuxin
  * @Date: 2018/11/12 15:47
  */
 public interface UserMapper02 {

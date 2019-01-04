@@ -17,7 +17,7 @@ import java.sql.SQLException;
 
 /**
  * @Description: 配置数据源 .利用atomikos管理数据源后，不需要配置事务管理器
- * @Auther: yinyuxin@gome.com.cn
+ * @Auther: yinyuxin
  * @Date: 2018/11/23 14:20
  */
 @Configuration

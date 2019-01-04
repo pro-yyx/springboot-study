@@ -15,7 +15,7 @@ import java.sql.SQLException;
 
 /**
  * @Description: 配置数据源
- * @Auther: yinyuxin@gome.com.cn
+ * @Auther: yinyuxin
  * @Date: 2018/11/23 14:20
  */
 /*@Configuration*/

@@ -15,7 +15,7 @@ import javax.sql.DataSource;
 
 /**
  * @Description: 数据源配置类
- * @Auther: yinyuxin@gome.com.cn
+ * @Auther: yinyuxin
  * @Date: 2018/11/20 15:41
  */
 
