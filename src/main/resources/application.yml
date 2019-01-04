@@ -1,0 +1,7 @@
+
+
+spring:
+  application:
+    name: spring-boot-study-adminUiServer
+server:
+  port: 9090
